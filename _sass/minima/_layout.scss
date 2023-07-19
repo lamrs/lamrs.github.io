@@ -3,7 +3,6 @@
  */
 .site-header {
   border-top: 5px solid $red-color;
-  border-bottom: 1px solid $red-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -25,8 +24,15 @@
 }
 
 .site-nav {
-  float: center;
+  width: 100%;
+  // float: center;
   line-height: $base-line-height * $base-font-size * 2.25;
+
+  .trigger {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
 
   .nav-trigger {
     display: none;
@@ -37,6 +43,8 @@
   }
 
   .page-link {
+    text-transform: uppercase;
+    transform: scaleY(1.4);
     color: $text-color;
     line-height: $base-line-height;
 

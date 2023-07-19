@@ -1,3 +1,10 @@
+.red-and-white {
+  color: white;
+  background: $red-color;
+  width: 100%;
+  text-align: center;
+}
+
 hr {
   margin: 2em 0;
   border: 1px solid $red-color;
@@ -24,8 +31,14 @@ ul,
 figure {
   margin: 0;
   padding: 0;
+  .red {
+    color: $red-color;
+  }
 }
 
+.red-border {
+  border: 3px solid $red-color;
+}
 
 
 /**
@@ -68,7 +81,9 @@ figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
+ol li::marker {
+  font-weight: bold;
+}
 
 /**
  * `main` element
