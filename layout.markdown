@@ -4,16 +4,65 @@ title: Layout
 permalink: /layout/
 ---
 
+<p>
+  <strong class="red">Our Space</strong>
+  The unique arrangement of rooms in the building presented an opportunity to “think outside of the box”. As was the case in the origi- nal layout, it was important that the layout design make it possible for easy access and viewing by both operators and the viewing public. The walk-around design features both point-to-point and continuous running, encourages active involvement in the operations of the layout, maximizes the use of the space and provides a long mainline run! While the free- lance railroad is still the Great Lakes and Western, the new layout focus- es on the Western operations from the Sierras to the Los Angeles Harbor.
+</p>
 
-The layout is currently still in the planning stage and awaiting some alterations to the building.
-The layout will be point to point with three levels of shelf type bench work. The lower level with
-be staging and will serve both ends of the layout. In concept it will be two different locations.
-The middle level will be the east end to the middle point of the layout. The upper level will be the
-west end to the center of the layout. The two center points of the layout will be connected by a
-helix and each end point of the layout will be connect to the staging level by separate helixes.
-Trains departing staging will have the option to go either east to west or the other way around.
-Trains arriving to staging can be turned around and restaged to run again as a different train.
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/layout/new-layout.jpg">
+      <img src="/assets/images/layout/new-layout.jpg" alt="New layout">
+    </a>
+  </div>
+</figure>
 
-* [Lower level - staging](/assets/documents/LAMRS-Layout-v3.16-(STAGING).pdf)
-* [Middle level - east end](/assets/documents/LAMRS-Layout-v3.16-(LOWER).pdf)
-* [Upper level - west end](/assets/documents/LAMRS-Layout-v3.16-(UPPER).pdf)
+<p>
+  <strong class="red">3D Model</strong>
+  As shown in the 3-dimensional models below, the layout is an around the room double-deck shelf layout with staging underneath part of it, connected by two helixes. The lower-level and the upper level are designed to feature both train operations and yard activities. Standard gauge operations include mainline running, logging operations and several branch lines. Narrow gauge operations on the upper level include six towns along the Rio Grande Southern (RGS).
+</p>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/layout/3d-model-01.jpg">
+      <img src="/assets/images/layout/3d-model-01.jpg" alt="3D model">
+    </a>
+  </div>
+</figure>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/layout/3d-model-02.jpg">
+      <img src="/assets/images/layout/3d-model-02.jpg" alt="3D model">
+    </a>
+  </div>
+</figure>
+
+<p>
+  <strong class="red">The Track Plan</strong>
+ Along with agreeing on a track plan, the club agreed to implement design requirements, including: 30” minimum main line radius and 24” minimum for branch lines and narrow gauge; Maximum grades on the layout are 2%; All turnouts and crossovers are hand-laid using Fast Tracks jigs, Micro Engineering code 83 rail and flex track. Digitrax DCC is used for train throttle control and LCC (Layout Command Control) is used to operate turnouts, block detection and signaling.
+</p>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/layout/track-plan-upper.jpg">
+      <img src="/assets/images/layout/track-plan-upper.jpg" alt="3D model">
+    </a>
+  </div>
+</figure>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/layout/track-plan-main.jpg">
+      <img src="/assets/images/layout/track-plan-main.jpg" alt="3D model">
+    </a>
+  </div>
+</figure>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/layout/track-plan-staging.jpg">
+      <img src="/assets/images/layout/track-plan-staging.jpg" alt="3D model">
+    </a>
+  </div>
+</figure>

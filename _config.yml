@@ -47,11 +47,13 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - location.markdown
+  - membership.markdown
   - layout.markdown
+  - calendar.markdown
+  - community.markdown
+  - history.markdown
   - links.markdown
   - contact.markdown
-  - about.markdown
 
 show_excerpts: true
 
