@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+.full-grey-box {
+  width: 100%;
+  background: grey;
+  text-align: center;
+  padding: 0.5em 0;
+  margin: 0 0 1em;
+}
+
 hr {
   margin: 2em 0;
   border: 1px solid $red-color;
