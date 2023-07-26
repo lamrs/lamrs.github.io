@@ -49,7 +49,7 @@ plugins:
 header_pages:
   - membership.markdown
   - layout.markdown
-  - calendar.markdown
+  - events.markdown
   - community.markdown
   - history.markdown
   - links.markdown
