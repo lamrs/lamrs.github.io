@@ -9,6 +9,12 @@ permalink: /layout/
   The unique arrangement of rooms in the building presented an opportunity to “think outside of the box”. As was the case in the origi- nal layout, it was important that the layout design make it possible for easy access and viewing by both operators and the viewing public. The walk-around design features both point-to-point and continuous running, encourages active involvement in the operations of the layout, maximizes the use of the space and provides a long mainline run! While the free- lance railroad is still the Great Lakes and Western, the new layout focus- es on the Western operations from the Sierras to the Los Angeles Harbor.
 </p>
 
+<div style="background: grey; color: white; text-align: center; padding: 0.5em">
+ <strong>Click on any image on this page to enlarge.</strong>
+</div>
+
+<br>
+
 <figure>
   <div class="red-border">
     <a href="/assets/images/layout/new-layout.jpg">
