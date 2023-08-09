@@ -16,10 +16,10 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.date | date: date_format | post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
@@ -27,6 +27,8 @@ layout: default
           {% if post.content.size > post.excerpt.size %}
             <p><a href="{{ post.url }}">(more...)</a></p>
           {%- endif -%}
+        {%- else -%}
+          {{ post.content }}
         {%- endif -%}
       </li>
       {%- endfor -%}
