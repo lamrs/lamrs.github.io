@@ -12,15 +12,20 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <hr>
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+
+    The club will post updates on the progress of the new layout in this space. Tune in often to see what’s going on.
+    <br><br>
+
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.posts limit: 1 -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
         <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link red" href="{{ post.url | relative_url }}">
             {{ post.date | date: date_format | post.title | escape }}
           </a>
+          <strong>{{ post.title }}</strong>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
@@ -35,6 +40,10 @@ layout: default
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+    <div class="full-grey-box">
+      <a href="/working-on-the-railroad" style=" color: white; font-weight: bold">Click here to view previous posts.</a>
+    </div>
   {%- endif -%}
 
 </div>
