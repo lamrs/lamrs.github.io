@@ -9,7 +9,7 @@ list_title: Working on the Railroad
 <figure>
   <div class="red-border">
     <a href="/assets/images/home/trains-models.jpg">
-      <img src="/assets/images/home/trains-models.jpg" alt="Los Angeles Model Railroad Society">
+      <img style="width: 100%" src="/assets/images/home/trains-models.jpg" alt="Los Angeles Model Railroad Society">
     </a>
   </div>
 </figure>
@@ -22,7 +22,7 @@ list_title: Working on the Railroad
   <div style="width: 37%" class="red-border">
     <h3 class="red-and-white">VISIT</h3>
     <h4 style="text-align: center" class="red">MONDAYS</h4>
-    <p style="text-align: center">10am - 2pm, Worksession</p>
+    <p style="text-align: center">9:30am - 2pm, Worksession</p>
     <h4 style="text-align: center" class="red">TUESDAYS*</h4>
     <p style="text-align: center">
       7pm - 9pm, Worksession
@@ -30,7 +30,9 @@ list_title: Working on the Railroad
       <i>*1st Tuesdays is our club business meeting via Zoom</i>
     </p>
     <h4 style="text-align: center" class="red">THURSDAYS</h4>
-    <p style="text-align: center">10am - 2pm, Worksession</p>
+    <p style="text-align: center">9:30am - 2pm, Worksession</p>
+    <h4 style="text-align: center" class="red">SATURDAYS</h4>
+    <p style="text-align: center">9:00am - Noon, Worksession</p>
     <h4 style="text-align: center">
       Phone to confirm times:
       <br>
