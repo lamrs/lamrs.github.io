@@ -4,6 +4,28 @@ title: Events
 permalink: /events/
 ---
 
+<h3>Saturday, June 22, 2024 &mdash; 10am - 4pm</h3>
+Open House & Swap Meet
+
+26008 S. Western Ave., Harbor City, CA 90710
+
+<span class="red">FREE ADMISSION!</span>
+
+Witness a 1000sf layout being built from scratch.Look behind-the-scenes of how a modern layout is constructed.
+Watch trains being run from our main yard to staging.
+See the workings of DCC, LCC, and a Helix.
+Standard gauge and narrow gauge tracks are being installed. Follow our progress or take part in the making of a new layout.
+
+<strong>New Members Welcome &mdash; No experience necessary!</strong>
+
+<figure>
+  <div class="red-border" style="margin-left: auto; margin-right: auto; width: 510px">
+    <a href="/assets/images/events/open-house.jpg">
+      <img src="/assets/images/events/open-house.jpg" alt="Open House & Swap Meet">
+    </a>
+  </div>
+</figure>
+
 <h3>December 1-29, 2023</h3>
 Torrance Library Holiday Display
 
