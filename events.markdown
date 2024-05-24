@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 <h3>Saturday, June 22, 2024 &mdash; 10am - 4pm</h3>
-Open House & Swap Meet
+Railroad Day - Open House & Swap Meet
 
 26008 S. Western Ave., Harbor City, CA 90710
 
@@ -16,12 +16,22 @@ Watch trains being run from our main yard to staging.
 See the workings of DCC, LCC, and a Helix.
 Standard gauge and narrow gauge tracks are being installed. Follow our progress or take part in the making of a new layout.
 
+Be sure to checkout the other local South Bay clubs as well!
+
+[Belmont Shore Model Railroad Club](https://belmontshorerr.com/train-day-2024/)
+
+3601 Gaffey St., San Pedro, CA 90731 in Angles Gate Parl
+
+[Angels Gate Hi-Railers Model Railroad Club](http://aghrtrains.com/index.html)
+
+3601 Gaffey St., San Pedro, CA 90731 in Angles Gate Parl
+
 <strong>New Members Welcome &mdash; No experience necessary!</strong>
 
 <figure>
   <div class="red-border" style="margin-left: auto; margin-right: auto; width: 510px">
-    <a href="/assets/images/events/open-house.jpg">
-      <img src="/assets/images/events/open-house.jpg" alt="Open House & Swap Meet">
+    <a href="/assets/documents/events/LAMRS_Railroad_Day_Flyer_2024.pdf">
+      <img src="/assets/images/events/railroad-day.png" alt="Open House & Swap Meet">
     </a>
   </div>
 </figure>
