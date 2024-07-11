@@ -27,7 +27,7 @@ list_title: Working on the Railroad
     <p style="text-align: center">
       7pm - 9pm, Worksession
       <br>
-      <i>*1st Tuesdays is our club business meeting via Zoom</i>
+      <b>NOTE:</b> Tuesdays is our club business meeting via Zoom
     </p>
     <h4 style="text-align: center" class="red">THURSDAYS</h4>
     <p style="text-align: center">9:30am - 2pm, Worksession</p>
