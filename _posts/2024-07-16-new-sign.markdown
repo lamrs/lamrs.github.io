@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "New Sign, Improved Visibility"
+date:   2024-07-24 19:39:12 -0700
+categories:
+---
+Our new lighted sign was installed today. It looks great and will make it easier for visitors to find the club.
+
+Special thanks to Steve Matt for his generous donation to this project, Tim Steinmeier for the design of the sign, and Signvertise of Redondo Beach for making and installing the sign.
+
+<figure>
+<div style="display:flex">
+  <div class="red-border" style="display:flex">
+    <a href="/assets/images/posts/2024-07-16/01.jpg">
+      <img src="/assets/images/posts/2024-07-16/01.jpg" alt="New Sign">
+    </a>
+  </div>
+</div>
+</figure>
+
+<figure>
+<div style="display:flex">
+  <div class="red-border" style="display:flex">
+    <a href="/assets/images/posts/2024-07-16/02.jpg">
+      <img src="/assets/images/posts/2024-07-16/02.jpg" alt="New Sign">
+    </a>
+  </div>
+</div>
+</figure>
