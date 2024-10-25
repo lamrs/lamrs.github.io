@@ -4,6 +4,38 @@ title: Events
 permalink: /events/
 ---
 
+<h3>Saturday, November 9, 2024</h3>
+<strong>Open House 10am - 4pm<br>
+Swap Meet Sale (10am - 3pm)</strong>
+
+26008 S. Western Ave., Harbor City, CA 90710<br>
+<span class="red">FREE ADMISSION!</span>
+
+Check out the progress we've made on our new layout!
+
+<div class="red-border" style="text-align: center; padding: 2em;">
+  <h3 style="color: #d01f32; font-weight: bold;">NEW INVENTORY!</h3>
+  <p>Large Collections of New and Used Locos, Passenger Trains & Rolling Stock</p>
+
+  <p>QUALITY <strong>new</strong> HO collections!</p>
+
+  <p>HO scale brass locomotives!</p>
+
+  <p>New HO scale cars!</p>
+
+  <p>O scale locos, cars, & structures!</p>
+
+  <p>HO structures blow-out!</p>
+
+  <p>Every structure must go (we REALLY need the space).</p>
+
+  <p>No reasonable offer refused, (some may get laughed at but still accepted), most $5 and under.</p>
+</div>
+<br>
+New Members Welcome - No experience necessary!
+
+<br><br>
+
 <h3>Saturday, June 22, 2024 &mdash; 10am - 4pm</h3>
 Railroad Day - Open House & Swap Meet
 
