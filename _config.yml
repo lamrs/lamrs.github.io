@@ -55,6 +55,8 @@ header_pages:
   - links.markdown
   - contact.markdown
 
+future: true
+
 # show_excerpts: true
 
 # Exclude from processing.

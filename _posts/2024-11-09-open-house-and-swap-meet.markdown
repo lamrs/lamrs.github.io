@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open House & Swap Meet November 9th 10am-4pm"
-date:   2024-10-24 19:39:12 -0700
+date:   2024-11-09 19:39:12 -0700
 categories:
 ---
 On <strong>November 9th</strong> we will be having an Open House (10am-4pm) & Swap Meet (10am-3pm)
