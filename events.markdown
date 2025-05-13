@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 <h3>Saturday, June 21, 2025</h3>
-<strong>Open House & Swap Meet 10am - 2pm</strong>
+<strong>Open House 10am - 4pm, Swap Meet 10am - 2pm</strong>
 
 <h3>Sunday, June 22, 2025</h3>
 <strong>Open House 10am - 4pm</strong>
