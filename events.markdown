@@ -4,6 +4,79 @@ title: Events
 permalink: /events/
 ---
 
+<h3>Saturday, June 21, 2025</h3>
+<strong>Open House & Swap Meet 10am - 2pm</strong>
+
+<h3>Sunday, June 22, 2025</h3>
+<strong>Open House 10am - 4pm</strong>
+
+<figure>
+  <div style="display:flex">
+    <div style="flex: 0.799; margin: 0 0.5em 0 0" class="red-border">
+      <a href="/assets/images/events/03.jpg">
+        <img src="/assets/images/events/03.jpg" alt="Open House and Swap Meet">
+      </a>
+      </div>
+    <div style="flex: 1.2843; margin: 0 0 0 0.5em">
+      <h2 class="red">Three great model train clubs.</h2>
+      <h2 class="red">Three different scales.</h2>
+      <h2 class="red">20 minutes apart.</h2>
+      <h2 class="red">All open for free.</h2>
+      <h3 class="red">Just ask and you can run a train.</h3>
+      Click on link to download the flyer.
+    </div>
+  </div>
+</figure>
+
+<div style="text-align: center">
+  <h2 class="red"><strong>Los Angeles Model Railroad Society</strong></h2>
+  <p style="background: grey; color: white">SWAP MEET ON SATURDAY 10am-2pm</p>
+  <p>26008 S. Western Ave., Harbor City, CA 90710<br>HO-Scale Layout</p>
+</div>
+
+<div style="text-align: center">
+  <h2 class="red"><strong>Angels Gate Hi-Railers Model Railroad Club</strong></h2>
+  <p>3601 Gaffey St., San Pedro, 90731, (on Orc Road) in Angels Gate Park.<br>O-Scale Layout. Entrance to the club requires climbing a few steps.</p>
+</div>
+
+<div style="text-align: center">
+  <h2 class="red"><strong>Belmont Shore Model Railroad Club</strong></h2>
+  <p style="background: grey; color: white">SWAP MEET ON SATURDAY 8am-10am</p>
+  <p>3601 Gaffey St., San Pedro, 90731, Bldg. 824<br>(on Leary Merriam Drive) in Angels Gate Park.<br>N-Scale Layout and Museum.<br>Most of the layout is located on the second floor. Steps and stair climbing required.</p>
+</div>
+
+<h3>April 28, 2025</h3>
+<strong>GOLDEN SPIKE MILESTONE!</strong>
+
+<p>
+Today, the Los Angeles Model Railroad Society reached an important milestone. The final section of the mainline was completed and tested. Although we still have lots to do, today was the culmination of two years work at our new location in Harbor City.<br>
+There is still a lot to do, and we are looking for people who would like to help us complete this incredible project. It's a rare opportunity to create a new layout. Bring your skills to this endeavor, or come to learn some new ones.
+</p>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/events/04.jpg">
+      <img src="/assets/images/events/04.jpg" alt="Golden Spike" style="width: 100%">
+    </a>
+  </div>
+</figure>
+
+<p>
+Club members gather to celebrate the completion of the mainline at our new layout.<br>
+Back Row (L-R): Gavin McClory, Rick Reed, Chris Maurath Tom Selinske, Kevin Cogan, Peter Nagy, Lloyd Lehrer (1st V.P.), Bob Daniels, and Mike Artner (President).<br>
+Front Row (L-R): Bob Myrtle, Ken Dodge, Tim Steinmeier (Secretary), pointing to the Golden Spike, Marty Bradley (2nd V.P.), Mike Garey, and Eric Bloomer (Treasurer).
+</p>
+
+<figure>
+  <div class="red-border">
+    <a href="/assets/images/events/05.jpg">
+      <img src="/assets/images/events/05.jpg" alt="Golden Spike" style="width: 100%">
+    </a>
+  </div>
+</figure>
+
+<p>This is the actual location on the layout where the final spike was inserted, connecting the entire mainline.</p>
+
 <h3>Saturday, November 9, 2024</h3>
 <strong>Open House 10am - 4pm<br>
 Swap Meet Sale (10am - 3pm)</strong>

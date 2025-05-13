@@ -8,8 +8,8 @@ list_title: Working on the Railroad
 
 <figure>
   <div class="red-border">
-    <a href="/assets/images/home/trains-models.jpg">
-      <img style="width: 100%" src="/assets/images/home/trains-models.jpg" alt="Los Angeles Model Railroad Society">
+    <a href="/assets/images/home/golden-spike.jpg">
+      <img style="width: 100%" src="/assets/images/home/golden-spike.jpg" alt="Los Angeles Model Railroad Society">
     </a>
   </div>
 </figure>
