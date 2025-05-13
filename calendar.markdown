@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Working on the Railroad
-permalink: /working-on-the-railroad/
+title: Calendar
+permalink: /calendar/
 ---
 
 {%- if site.posts.size > 0 -%}

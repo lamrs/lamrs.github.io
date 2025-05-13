@@ -50,6 +50,7 @@ header_pages:
   - membership.markdown
   - layout.markdown
   - events.markdown
+  - calendar.markdown
   - community.markdown
   - history.markdown
   - links.markdown
