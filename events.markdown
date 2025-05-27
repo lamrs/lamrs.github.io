@@ -13,7 +13,7 @@ permalink: /events/
 <figure>
   <div style="display:flex">
     <div style="flex: 0.799; margin: 0 0.5em 0 0" class="red-border">
-      <a href="/assets/images/events/03.jpg">
+      <a href="/assets/images/events/03.pdf">
         <img src="/assets/images/events/03.jpg" alt="Open House and Swap Meet">
       </a>
       </div>
@@ -23,7 +23,10 @@ permalink: /events/
       <h2 class="red">20 minutes apart.</h2>
       <h2 class="red">All open for free.</h2>
       <h3 class="red">Just ask and you can run a train.</h3>
-      Click on link to download the flyer.
+      <a href="/assets/images/events/03.pdf">
+        Click on link to download the flyer.
+      </a>
+
     </div>
   </div>
 </figure>
