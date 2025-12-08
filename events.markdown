@@ -31,7 +31,7 @@ HO, O, S and N-Scale items for sale.
   </div>
 </figure>
 
-<h3>Sunday, December 6, 2025:" 10am - 4pm</h3>
+<h3>Saturday, December 6, 2025: 10am - 4pm</h3>
 <strong>Open House (Swap Meet 10am - 2pm)</strong>
 
 <p>
