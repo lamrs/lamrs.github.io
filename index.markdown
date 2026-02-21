@@ -42,6 +42,20 @@ list_title: Working on the Railroad
 </div>
 
 <br>
+<h2 class="red">News</h2>
+<h3>Saturday, March 7, 2026</h3>
+<strong>Open House 10am - 4pm</strong>
+<br>
+<strong>& Swap Meet 10am - 2pm</strong>
+
+<p>
+26008 S. Western Ave., Harbor City, CA 90710
+</p>
+<p class="red">
+FREE ADMISSION!
+</p>
+
+<br>
 The Los Angeles Model Railroad Society (LAMRS) is a non-profit California corporation made up of a
 diverse group of model railroad enthusiasts of many ages, professions and backgrounds. The club
 has been promoting the hobby of model railroading for more than four decades.
