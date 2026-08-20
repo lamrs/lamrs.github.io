@@ -43,7 +43,7 @@ list_title: Working on the Railroad
 
 <br>
 <h2 class="red">News</h2>
-<h3>Saturday, March 7, 2026</h3>
+<h3>Saturday, September 26, 2026</h3>
 <strong>Open House 10am - 4pm</strong>
 <br>
 <strong>& Swap Meet 10am - 2pm</strong>
