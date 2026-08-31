@@ -44,9 +44,15 @@ list_title: Working on the Railroad
 <br>
 <h2 class="red">News</h2>
 <h3>Saturday, September 26, 2026</h3>
-<strong>Open House 10am - 4pm</strong>
-<br>
-<strong>& Swap Meet 10am - 2pm</strong>
+<strong>Open House & Swap Meet 10am - 2pm</strong>
+
+<figure>
+  <div style="display:flex; justify-content: center;">
+      <a href="/assets/images/events/09.jpg">
+        <img src="/assets/images/events/09.jpg" alt="Layout"  style="width: 100%">
+      </a>
+  </div>
+</figure>
 
 <p>
 26008 S. Western Ave., Harbor City, CA 90710
